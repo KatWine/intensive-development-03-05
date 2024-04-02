@@ -1,0 +1,33 @@
+*{
+    padding: 5%;
+    margin: 5%;
+    background:linear-gradient(35deg,black,white,gray);
+    
+
+}
+.container{
+    background-color: red;
+   
+}
+div{
+    border-radius: 100px;
+  
+   
+}
+.blue{
+    background-color: blue;
+   
+}
+.yellow{
+    background-color: yellow;
+
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
